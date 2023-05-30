@@ -1,0 +1,17 @@
+package org.pzd.behavioral.chainOfResponsibility;
+
+/**
+ * @author PENG_Zhengda
+ * @date 2023/5/27
+ * @apiNote
+ */
+public class ConsoleLogger extends AbstractLogger {
+    public ConsoleLogger(int level) {
+        this.level = level;
+    }
+
+    @Override
+    protected void write(String message) {
+        System.out.println("Standard Console::Logger: " + message);
+    }
+}
