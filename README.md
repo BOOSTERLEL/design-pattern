@@ -38,7 +38,7 @@
 
 下面用一个图片来整体描述一下设计模式之间的关系：
 
-![the-relationship-between-design-patterns](assets\the-relationship-between-design-patterns.jpg)
+![the-relationship-between-design-patterns](assets/the-relationship-between-design-patterns.jpg)
 
 ## 设计模式的六大原则
 
