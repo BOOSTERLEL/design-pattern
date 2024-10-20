@@ -36,4 +36,4 @@
 
 命令模式结构示意图:
 
-![commanduml](..\..\..\..\..\..\..\assets\commanduml.jpg)
+![commanduml](../../../../../../../assets/commanduml.jpg)
